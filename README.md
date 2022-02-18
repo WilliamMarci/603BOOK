@@ -1,5 +1,4 @@
 # Introduction
 
-## version 0.0.1 beta
+这是603的官方介绍
 
-测试中
