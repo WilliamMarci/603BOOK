@@ -3,7 +3,7 @@
 ### 实验室概述
 
 * [Introduction | 简介](README.md)
-
+* [Readme | 更新日志](LOG.md)
 ### 数学物理方法
 
 * [Chapter Prologue | 序言](MathematicPhysics/1.md)
@@ -13,4 +13,4 @@
 
 ---
 
-### 603 Laboratory
+### 603 Theoretical Laboratory
