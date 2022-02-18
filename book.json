@@ -1,0 +1,3 @@
+{
+    "plugins": ["katex","splitter","-lunr","-search","search-pro"]
+}
