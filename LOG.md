@@ -3,7 +3,6 @@
 -   与本地Git进行同步，提升编辑效率
 -   更新了Readme文件
 -   设定了规范文档
--   nya
 
 ## version 0.0.2 beta 
 
