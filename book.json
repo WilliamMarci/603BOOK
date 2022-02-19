@@ -1,3 +1,46 @@
 {
-    "plugins": ["katex","splitter","-lunr","-search","search-pro"]
+    "root": "./",
+    "title": "603 LAB",
+    "author": "Iron",
+    "description": "Iron 的 CSDN 博客",
+    "language": "zh-hans",
+    "copyright": "Creative Commons license 2022",
+    "plugins": [
+        "katex",
+        "theme-code@0.0.20",
+        "-sharing",
+        "-lunr", 
+        "-search",
+        "search-pro",
+        "splitter",
+        "tbfed-pagefooter",
+        "expandable-chapters-small",
+        "github",
+        "-sharing-plus",
+        "code",
+        "-copy-code-button",
+        "anchor-navigation-ex",
+        "edit-link"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"Creative Commons license 2022",
+            "modify_label": "修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "expandable-chapters":{},
+        "theme-default": {
+            "showLevel": false
+        },
+        "github": {
+            "url": "Iron-YeHong - Overview"
+        },
+        "anchor-navigation-ex":{
+            "showLevel": false
+        },
+        "edit-link": {
+            "base": "Iron-YeHong - Overview",
+            "label": ""
+        }
+    }
 }
