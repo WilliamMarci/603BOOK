@@ -17,7 +17,13 @@
 	* [END | 后记](BOOKS/MathematicPhysics/4.md)
 *   [极简广义相对论入门](BOOKS/Relativity/readme.md)
 
-    * [一. 前期数学准备](BOOKS/Relativity/01.md)   
+	* [一. 前期数学准备]()
+
+    * [曲线论](BOOKS/Relativity/01.md)
+    	
+    * [曲面论](BOOKS/Relativity/02.md)   
+  	
+    * [黎曼几何初步](BOOKS/Relativity/03.md)   
 
 *   [从场到力学 *]()
 
