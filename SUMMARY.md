@@ -20,11 +20,10 @@
 	* [一. 前期数学准备]()
 
     * [曲线论](BOOKS/Relativity/01.md)
-    	
     * [曲面论](BOOKS/Relativity/02.md)   
-  	
-    * [黎曼几何初步](BOOKS/Relativity/03.md)   
-
+    * [黎曼几何初步](BOOKS/Relativity/03.md)  
+  	* [广义相对论中的黎曼几何](BOOKS/Relativity/04.md)
+  
 *   [从场到力学 *]()
 
 ## 计算机
