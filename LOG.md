@@ -1,3 +1,11 @@
+## version 0.1.0-beta
+
+-   更新了Creative Commons License, 本网站内容正式开放
+-   更改了主题色彩
+-   更新了图标
+
+2022年2月20日时间
+
 ## version 0.0.2-beta
 
 -   增加了「社会科学」板块
